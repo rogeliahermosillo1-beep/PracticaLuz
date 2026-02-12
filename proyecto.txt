@@ -1,1 +1,2 @@
-Archivo base del proyecto PracticaLuz
+Archivo base del proyecto Practica
+Cambios realizados por el equipo FRONTEND
