@@ -1,2 +1,4 @@
 Archivo base del proyecto Practica
+Cambios realizados por el equipo FRONTEND
+Archivo base del proyecto Practica
 Cambios realizados por el equipo BACKEND
